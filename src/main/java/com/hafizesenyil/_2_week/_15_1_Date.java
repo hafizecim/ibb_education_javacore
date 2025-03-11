@@ -72,8 +72,8 @@ public class _15_1_Date {
     public static void main(String[] args) {
         //dateMethod();
 
-       /* String nowDate = nowFormat1();
-        System.out.println(nowDate);*/
+        String nowDate = nowFormat1();
+        System.out.println(nowDate);
 
         String nowDate2 = nowFormat2();
         System.out.println(nowDate2);
