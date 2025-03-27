@@ -11,5 +11,7 @@ public class _4_AllAccessModifier {
         //System.out.println(SpecialColor.YELLOW+accessModifier.defaultData+SpecialColor.RESET);
         //System.out.println(SpecialColor.PURPLE+accessModifier.protectedData+SpecialColor.RESET);
         //System.out.println(SpecialColor.RED+accessModifier.privateData+SpecialColor.RESET);
+        // protected extend yapısı olmadığı için çalışmaz sadece public çalışır
+
     }
 }

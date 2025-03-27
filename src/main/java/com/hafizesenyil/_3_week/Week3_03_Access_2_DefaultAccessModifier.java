@@ -10,6 +10,7 @@ public class Week3_03_Access_2_DefaultAccessModifier {
         System.out.println(SpecialColor.YELLOW+accessModifier.defaultData+SpecialColor.RESET);
         System.out.println(SpecialColor.PURPLE+accessModifier.protectedData+SpecialColor.RESET);
         //System.out.println(SpecialColor.RED+accessModifier.privateData+SpecialColor.RESET);
+        // privite için getter ve setter ler ile Kapsülleme (Encapsulation)  yapılarak kullanılır
     }
 }
 
